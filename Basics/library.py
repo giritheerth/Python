@@ -13,3 +13,4 @@ Layers:
 2. artist layer- full control and appearance of the plot.
 3. background layer- lowest level - how to render and how to use different GUI ex: pyQT
 '''
+
